@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Shipping+LLM-powered+products+in+production;Multi-agent+systems+%E2%80%A2+LangGraph+%2B+Groq;Full-stack+%E2%80%94+React%2C+Next.js%2C+Node%2C+Python;Turning+ideas+into+scalable+real-time+apps" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
-</p>
+</p> -->
 
 
 
