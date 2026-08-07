@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi ✨, I'm Dev Shankar</h1>
-<h3 align="center">AI Full Stack Software Engineer — building intelligent products end to end</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:0A66C2&height=200&section=header&text=Dev%20Shankar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+</p>
+
+<h3 align="center">AI Full Stack Software Engineer — Building intelligent products end to end</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-shankar-3aaa56261/" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -22,14 +25,22 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Shipping+LLM-powered+products+in+production;Multi-agent+systems+%7C+LangGraph+%2B+Groq;Full-stack+%E2%80%94+React%2C+Next.js%2C+Node%2C+Python;Turning+ideas+into+scalable+real-time+apps" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Shipping+LLM-powered+products+in+production;Multi-agent+systems+%E2%80%A2+LangGraph+%2B+Groq;Full-stack+%E2%80%94+React%2C+Next.js%2C+Node%2C+Python;Turning+ideas+into+scalable+real-time+apps" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
 </p>
 
 
 
 ### 🚀 About Me
 
-- 🤖 Currently engineering **AI-driven WhatsApp & scheduling systems** and **multi-agent architectures** at production scale
+- ✨ Architected **AI-driven WhatsApp & scheduling systems** and **multi-agent architectures** at production scale
 - 🌱 Deep into **LangChain / LangGraph**, RAG pipelines, and LLM infra (Groq Llama 3.3)
 - 📱 Shipped a cross-platform IoT app to **1,000+ active users** on iOS & Android
 - 🛰️ Built real-time data pipelines processing **25+ live environmental metrics**
@@ -120,10 +131,10 @@ Full-stack AI SaaS image platform
 
 - 🎓 B.Tech — JSS Academy of Technical Education, Noida
 
----
-
+<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devu5-6&style=flat-square&color=2EA043" alt="profile views"/>
-</p>
+</p> -->
 
-<p align="center"><i>Building things that turn "manual and slow" into "automated and fast." Let's connect!</i></p>
+<!-- <p align="center"><i>Building things that turn "manual and slow" into "automated and fast." Let's connect!</i></p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2EA043&height=100&section=footer" width="100%"/>
