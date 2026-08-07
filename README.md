@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Dev Shankar</h1>
+<h1 align="center">Hi ✨, I'm Dev Shankar</h1>
 <h3 align="center">AI Full Stack Software Engineer — building intelligent products end to end</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-shankar-3aaa56261/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dev-shankar-3aaa56261/" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:devshankar05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dev-portfolio-two-jet.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://dev-portfolio-two-jet.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -119,8 +119,6 @@ Full-stack AI SaaS image platform
 ### 🎓 Education & Certifications
 
 - 🎓 B.Tech — JSS Academy of Technical Education, Noida
-- 📜 Developer Job Simulation — Accenture
-- 📜 Python & Node.js — Udemy
 
 ---
 
