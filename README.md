@@ -116,7 +116,7 @@ Full-stack AI SaaS image platform
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education 
 
 - 🎓 B.Tech — JSS Academy of Technical Education, Noida
 
