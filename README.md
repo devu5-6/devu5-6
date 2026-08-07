@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Shipping+LLM-powered+products+in+production;Multi-agent+systems+%7C+LangGraph+%2B+Groq;Full-stack+%E2%80%94+React%2C+Next.js%2C+Node%2C+Python;Turning+ideas+into+scalable+real-time+apps" />
 </p>
 
----
+
 
 ### 🚀 About Me
 
