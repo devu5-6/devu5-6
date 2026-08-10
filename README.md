@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - ✨ Architected **AI-driven WhatsApp & scheduling systems** and **multi-agent architectures** at production scale
 - 🌱 Deep into **LangChain / LangGraph**, RAG pipelines, and LLM infra (Groq Llama 3.3)
-- 📱 Shipped a cross-platform IoT app to **1,000+ active users** on iOS & Android
+- 📱 Shipped a cross-platform IoT app to **500+ active users** on iOS & Android
 - 🛰️ Built real-time data pipelines processing **25+ live environmental metrics**
 - 💬 Ask me about: LLM agents, WhatsApp automation, real-time dashboards, or React Native
 - ⚡ Fun fact: I've cut manual work by 70–85% across almost every project I've touched — automation is my love language
