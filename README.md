@@ -117,5 +117,5 @@ Full-stack AI SaaS image platform
 
 - 🎓 B.Tech — JSS Academy of Technical Education, Noida
 
-<p align="center"><i>Building things that turn "manual and slow" into "automated and fast." Let's connect!</i></p>
+<!-- <p align="center"><i>Building things that turn "manual and slow" into "automated and fast." Let's connect!</i></p> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2EA043&height=100&section=footer" width="100%"/>
