@@ -109,8 +109,6 @@ Full-stack AI SaaS image platform
 </tr>
 </table>
 
-
-
 ---
 
 ### 🎓 Education 
