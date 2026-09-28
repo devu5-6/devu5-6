@@ -23,7 +23,6 @@
 </p> 
 
 
-
 ### 🚀 About Me
 
 - ✨ Architected **AI-driven WhatsApp & scheduling systems** and **multi-agent architectures** at production scale
